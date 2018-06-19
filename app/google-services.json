@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "107492151486",
+    "firebase_url": "https://test-bff93.firebaseio.com",
+    "project_id": "test-bff93",
+    "storage_bucket": "test-bff93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107492151486:android:24d35df0878e33aa",
+        "android_client_info": {
+          "package_name": "com.example.usrdel.androidrestapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107492151486-0bun18a2n4bf9jsi4aqt0ab9u4pututq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "107492151486-0bun18a2n4bf9jsi4aqt0ab9u4pututq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwImUXRsuZ3phxvUyOaq_JW-cquBoxCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
